@@ -11,7 +11,7 @@
 <br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=defawede&color=00d4ff&style=flat-square&label=Visitas+al+perfil" />
+<img src="https://komarev.com/ghpvc/?username=defaweb&color=00d4ff&style=flat-square&label=Visitas+al+perfil" />
 
 </div>
 
@@ -104,12 +104,12 @@ web:         defaweb.xyz
 ## 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defawede&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defawede&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=defaweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=defawede&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=defaweb&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="60%"/>
 </div>
 
 ---
